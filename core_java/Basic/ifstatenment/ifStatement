@@ -1,0 +1,19 @@
+class ifStatement{
+	public static void main(String[] args)
+	{
+		System.out.println("control statement");
+		
+		// if statement
+		System.out.println("version 1 if statement");
+		if(true){
+			System.out.println("condition is true the this is printing ");
+		}
+		if(false){
+			System.out.println("not print");  // this code does not executed 
+		}
+		
+		
+		
+	}
+
+}
